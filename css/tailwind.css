@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.rotate-45 {
+    transform: rotate(45deg);
+}
+
+.zoom {
+    transform: scale(2);
+}
